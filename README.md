@@ -39,7 +39,6 @@ Outside of coding, I am passionate about Soccer (go CHELSEA!!). Additionally, I 
 
 <div align="center">
  
- ![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rezident16&show_icons=true&theme=dark)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezident16&layout=compact)](https://github.com/Rezident16/github-readme-stats)
  
 </div>
