@@ -9,7 +9,6 @@ That is how I decided to transition from Account Management to Software Engineer
 <br/>
 Outside of coding, I am passionate about Soccer (go CHELSEA!!). Additionally, I love spending time with my friends and family, going on random road trips, and exploring different cities.
 
-* 🌍  I'm based in Knoxville
 * ✉️  You can contact me at [andrey.vorob1995@gmail.com](mailto:andrey.vorob1995@gmail.com)
 
 
