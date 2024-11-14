@@ -35,9 +35,3 @@ Outside of coding, I am passionate about Soccer (go CHELSEA!!). Additionally, I 
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![GoogleMapsApi](https://img.shields.io/badge/Google_Maps_API-%234285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 </div>
-
-<div align="center">
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezident16&layout=compact)](https://github.com/Rezident16/github-readme-stats)
- 
-</div>
