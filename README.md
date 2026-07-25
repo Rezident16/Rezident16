@@ -1,15 +1,10 @@
 Hi 👋 My name is Andrei Vorobev
 ===============================
 
-I am a Software Engineer with a background in Account Management. My previous career was centered around e-commerce - Walmart.com, Sportsman's Warehouse, and Wayfair. Throughout my experience, I always loved to utilize tools that would make my job more efficient, and at the same time, I was always curious about how those tools were developed... I wanted to build similar tools as well that would benefit internal and external stakeholders.
-<br/>
-<br/>
-That is how I decided to transition from Account Management to Software Engineering. I would love to combine my past experience and coding skills to create tools that would simplify the processes, increase visibility into data, and any other tools that would make the job easier. 
-<br/>
-<br/>
-Outside of coding, I am passionate about Soccer (go CHELSEA!!). Additionally, I love spending time with my friends and family, going on random road trips, and exploring different cities.
+Software Engineer at EY/Bank of America - building products with: JavaScript, SCSS, Handlebars, Vue.js, .Net, Java.
 
-* ✉️  You can contact me at [andrey.vorob1995@gmail.com](mailto:andrey.vorob1995@gmail.com)
+* You can contact me at [andrey.vorob1995@gmail.com](mailto:andrey.vorob1995@gmail.com)
+* Check my LinkedIn: https://www.linkedin.com/in/andreivorobev/
 
 
 <br/>
